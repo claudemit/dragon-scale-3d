@@ -84,8 +84,7 @@ npm install
 
 Run Locally (本地运行)
 Bash
-
-npm run dev
+  npm run dev
 Open http://localhost:5173 in your browser.
 
 
@@ -112,4 +111,3 @@ src/
 ├── components/         # (If you refactor later)
 ├── assets/             # Static assets
 └── index.css           # Tailwind imports
-
